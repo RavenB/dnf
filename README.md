@@ -1,3 +1,9 @@
+
+Chef has merged dnf support in core, and you shouldn't use this cookbook if you can use latest chef.
+----------------------------------------------------------------------------------------------------
+See: https://github.com/chef/chef/pull/4894
+
+
 dnf
 ===
 
